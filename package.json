@@ -1,5 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"description": "Learning all about Package Management",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
